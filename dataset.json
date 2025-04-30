@@ -1,0 +1,580 @@
+{
+    "data": [
+        {
+            "name": "Thrombo aspilets", 
+            "expiration_date": "2024-4-1", 
+            "stock_date": "2024-2-1",
+            "Category": "Obat Bebas Terbatas", 
+            "stock": 15,
+            "min_stock": 5
+        },
+        {
+            "name": "Bodrex migrain", 
+            "expiration_date": "2025-1-20",
+            "stock_date": "2024-2-1",
+            "Category":"Obat Bebas Terbatas",
+            "stock":100,
+            "min_stock": 5
+        },
+        {
+            "name": "Arthrifen", 
+            "expiration_date": "2025-4-25",
+            "stock_date": "2024-2-1",
+            "Category":"Obat Bebas Terbatas",
+            "stock":80,
+            "min_stock": 5
+        },
+        {
+            "name": "Valtrex", 
+            "expiration_date": "2024-5-29",
+            "stock_date": "2024-2-1",
+            "Category":"Obat Bebas Terbatas",
+            "stock":90,
+            "min_stock": 5
+        },
+        {
+            "name": "Bodrex ekstra", 
+            "expiration_date": "2025-3-15",
+            "stock_date": "2024-2-1",
+            "Category":"Obat Bebas Terbatas",
+            "stock":100,
+            "min_stock": 5
+        },
+        {
+            "name": "Reso-hin", 
+            "expiration_date": "2025-2-2",
+            "stock_date": "2024-2-1",
+            "Category":"Obat Bebas Terbatas",
+            "stock":10,
+            "min_stock": 5
+        },
+        {
+            "name": "Histaklor", 
+            "expiration_date": "2025-3-23",
+            "stock_date": "2024-2-1",
+            "Category":"Obat Bebas Terbatas",
+            "stock":25,
+            "min_stock": 5
+        },
+        {
+            "name": "Mexaquin", 
+            "expiration_date": "2025-4-18",
+            "stock_date": "2024-2-1",
+            "Category":"Obat Bebas Terbatas",
+            "stock":40,
+            "min_stock": 5
+        },
+        {
+            "name": "CTM", 
+            "expiration_date": "2025-2-28",
+            "stock_date": "2024-2-1",
+            "Category":"Obat Bebas Terbatas",
+            "stock":90,
+            "min_stock": 5
+        },
+        {
+            "name": "Alleron", 
+            "expiration_date": "2028-2-15",
+            "stock_date": "2024-2-1",
+            "Category":"Obat Bebas Terbatas",
+            "stock":300,
+            "min_stock": 5
+        },
+        {
+            "name": "Coredryl", 
+            "expiration_date": "2024-9-10",
+            "stock_date": "2024-2-1",
+            "Category":"Obat Bebas Terbatas",
+            "stock":40,
+            "min_stock": 5
+        },
+        {
+            "name": "Allergen", 
+            "expiration_date": "2027-2-20",
+            "stock_date": "2024-2-1",
+            "Category":"Obat Bebas Terbatas",
+            "stock":35,
+            "min_stock": 5
+        },
+        {
+            "name": "Alermax", 
+            "expiration_date": "2025-2-25",
+            "stock_date": "2024-2-1",
+            "Category":"Obat Bebas Terbatas",
+            "stock":50,
+            "min_stock": 5
+        },
+        {
+            "name": "Zacoldin", 
+            "expiration_date": "2025-5-22",
+            "stock_date": "2024-2-1",
+            "Category":"Obat Bebas Terbatas",
+            "stock":600,
+            "min_stock": 5
+        },
+        {
+            "name": "Tifalsic", 
+            "expiration_date": "2026-1-15 ",
+            "stock_date": "2024-2-1",
+            "Category":"Obat Bebas Terbatas",
+            "stock":90,
+            "min_stock": 5
+        },
+        {
+            "name": "Tiafen", 
+            "expiration_date": "2025-3-5",
+            "stock_date": "2024-2-1",
+            "Category":"Obat Bebas Terbatas",
+            "stock":300,
+            "min_stock": 5
+        },
+        {
+            "name": "Reanal", 
+            "expiration_date": "2024-9-20",
+            "stock_date": "2024-2-1",
+            "Category":"Obat Bebas Terbatas",
+            "stock":200,
+            "min_stock": 5
+        },
+        {
+            "name": "procold", 
+            "expiration_date": "2027-2-12",
+            "stock_date": "2024-2-1",
+            "Category":"Obat Bebas Terbatas",
+            "stock":220,
+            "min_stock": 5
+        },
+        {
+            "name": "profen", 
+            "expiration_date": "2026-3-30",
+            "stock_date": "2024-2-1",
+            "Category":"Obat Bebas Terbatas",
+            "stock":85,
+            "min_stock": 5
+        },
+        {
+            "name": "selmetor", 
+            "expiration_date": "2025-3-28",
+            "stock_date": "2024-2-1",
+            "Category":"Obat Bebas Terbatas",
+            "stock":59,
+            "min_stock": 5
+        },
+        {
+            "name": "ascardia ", 
+            "expiration_date": "2028-4-10",
+            "stock_date": "2024-2-1",
+            "Category":"Obat Bebas Keras",
+            "stock":70,
+            "min_stock": 5
+        },
+        {
+            "name": "simvastain 10mg", 
+            "expiration_date": "2027-4-20",
+            "stock_date": "2024-2-1",
+            "Category":"Obat Keras",
+            "stock":150,
+            "min_stock": 5
+        },
+        {
+            "name": "salbutamol 2mg", 
+            "expiration_date": "2025-3-15",
+            "stock_date": "2024-2-1",
+            "Category":"Obat Keras",
+            "stock":260,
+            "min_stock": 5
+        },
+        {
+            "name": "levofloxacin", 
+            "expiration_date": "2024-3-13",
+            "stock_date": "2024-2-1",
+            "Category":"Obat Keras",
+            "stock":54,
+            "min_stock": 5
+        },
+        {
+            "name": "albotyl concentrate", 
+            "expiration_date": "2026-5-29",
+            "stock_date": "2024-2-1",
+            "Category":"Obat Keras",
+            "stock":78,
+            "min_stock": 5
+        },
+        {
+            "name": "furosemide 40mg", 
+            "expiration_date": "2028-2-15",
+            "stock_date": "2024-2-1",
+            "Category":"Obat Keras",
+            "stock":50,
+            "min_stock": 5
+        },
+        {
+            "name": "omeprazol 20mg", 
+            "expiration_date": "2024-2-15",
+            "stock_date": "2024-2-1",
+            "Category":"Obat Keras",
+            "stock":20,
+            "min_stock": 5
+        },
+        {
+            "name": "Bisoprolol", 
+            "expiration_date": "2024-8-13",
+            "stock_date": "2024-2-1",
+            "Category":"Obat Keras",
+            "stock":40,
+            "min_stock": 5
+        },
+        {
+            "name": "Betahistin", 
+            "expiration_date": "2025-6-9",
+            "stock_date": "2024-2-1",
+            "Category":"Obat Keras",
+            "stock":30,
+            "min_stock": 5
+        },
+        {
+            "name": "ceffotaxime", 
+            "expiration_date": "2026-8-15",
+            "stock_date": "2024-2-1",
+            "Category":"Obat Keras",
+            "stock":45,
+            "min_stock": 5
+        },
+        {
+            "name": "Dobrizol", 
+            "expiration_date": "2025-10-1",
+            "stock_date": "2024-2-1",
+            "Category":"Obat Keras",
+            "stock":49,
+            "min_stock": 5
+        },
+        {
+            "name": "Dexametasone 5mg", 
+            "expiration_date": "2024-5-15",
+            "stock_date": "2024-2-1",
+            "Category":"Obat Keras",
+            "stock":56,
+            "min_stock": 5
+        },
+        {
+            "name": "Hexavask 5mg", 
+            "expiration_date": "2024-9-15",
+            "stock_date": "2024-2-1",
+            "Category":"Obat Keras",
+            "stock":90,
+            "min_stock": 5
+        },
+        {
+            "name": "Histapan", 
+            "expiration_date": "2024-12-30",
+            "stock_date": "2024-2-1",
+            "Category":"Obat Keras",
+            "stock":60,
+            "min_stock": 5
+        },
+        {
+            "name": "Irbesatan 150mg", 
+            "expiration_date": "2024-6-15",
+            "stock_date": "2024-2-1",
+            "Category":"Obat Keras",
+            "stock":190,
+            "min_stock": 5
+        },
+        {
+            "name": "Kalmeco", 
+            "expiration_date": "2025-5-30",
+            "stock_date": "2024-2-1",
+            "Category":"Obat Keras",
+            "stock":30,
+            "min_stock": 5
+        },
+        {
+            "name": "Lerzin", 
+            "expiration_date": "2024-5-21",
+            "stock_date": "2024-2-1",
+            "Category":"Obat Keras",
+            "stock":550,
+            "min_stock": 5
+        },
+        {
+            "name": "Kasa Hidrofil", 
+            "expiration_date": "2024-5-17",
+            "stock_date": "2024-2-1",
+            "Category":"Obat Keras",
+            "stock":300,
+            "min_stock": 5
+        },
+        {
+            "name": "Voltadex", 
+            "expiration_date": "2025-11-15",
+            "stock_date": "2024-2-1",
+            "Category":"Obat Keras",
+            "stock":40,
+            "min_stock": 5
+        },
+        {
+            "name": "Muzoral", 
+            "expiration_date": "2025-12-25",
+            "stock_date": "2024-2-1",
+            "Category":"Obat Keras",
+            "stock":10,
+            "min_stock": 5
+        },
+        {
+            "name": "Digest 30mg", 
+            "expiration_date": "2023-12-20",
+            "stock_date": "2024-2-1",
+            "Category":"Obat Keras",
+            "stock":80,
+            "min_stock": 5
+        },
+        {
+            "name": "Cetrin 10mg", 
+            "expiration_date": "2024-7-7",
+            "stock_date": "2024-2-1",
+            "Category":"Obat Keras",
+            "stock":120,
+            "min_stock": 5
+        },
+        {
+            "name": "Erlamycetin TT",
+            "expiration_date": "2025-11-6",
+            "stock_date": "2024-2-1",
+            "Category":"Obat Keras",
+            "stock":450,
+            "min_stock": 5
+        },
+        {
+            "name": "Alprazolam 0,5mg",
+            "expiration_date": "2024-5-1",
+            "stock_date": "2024-2-1",
+            "Category":"Obat Narkotika",
+            "stock":240,
+            "min_stock": 5
+        },
+        {
+            "name": "Analsik",
+            "expiration_date": "2024-6-29",
+            "stock_date": "2024-2-1",
+            "Category":"Obat Narkotika",
+            "stock":100,
+            "min_stock": 5
+        },
+        {
+            "name": "Anesfar 1mg",
+            "expiration_date": "2024-5-2",
+            "stock_date": "2024-2-1",
+            "Category":"Obat Narkotika",
+            "stock":90,
+            "min_stock": 5
+        },
+        {
+            "name": "Asabium 10mg",
+            "expiration_date": "2024-5-25",
+            "stock_date": "2024-2-1",
+            "Category":"Obat Narkotika",
+            "stock":30,
+            "min_stock": 5
+        },
+        {
+            "name": "Braxidin",
+            "expiration_date": "2025-8-17",
+            "stock_date": "2024-2-1",
+            "Category":"Obat Narkotika",
+            "stock":40,
+            "min_stock": 5
+        },
+        {
+            "name": "Cliad",
+            "expiration_date": "2025-7-8",
+            "stock_date": "2024-2-1",
+            "Category":"Obat Narkotika",
+            "stock":35,
+            "min_stock": 5
+        },
+        {
+            "name": "Clobazam",
+            "expiration_date": "2025-7-10",
+            "stock_date": "2024-2-1",
+            "Category":"Obat Narkotika",
+            "stock":150,
+            "min_stock": 5
+        },
+        {
+            "name": "Danalgin",
+            "expiration_date": "2025-6-15",
+            "stock_date": "2024-2-1",
+            "Category":"Obat Narkotika",
+            "stock":170,
+            "min_stock": 5
+        },
+        {
+            "name": "Esilgan",
+            "expiration_date": "2025-10-30",
+            "stock_date": "2024-2-1",
+            "Category":"Obat Narkotika",
+            "stock":590,
+            "min_stock": 5
+        },
+        {
+            "name": "frisium",
+            "expiration_date": "2025-11-29",
+            "stock_date": "2024-2-1",
+            "Category":"Obat Narkotika",
+            "stock":400,
+            "min_stock": 5
+        },
+        {
+            "name": "Librax",
+            "expiration_date": "2025-8-25",
+            "stock_date": "2024-2-1",
+            "Category":"Obat Narkotika",
+            "stock":60,
+            "min_stock": 5
+        },
+        {
+            "name": "Merlopam 2mg",
+            "expiration_date": "2025-5-22",
+            "stock_date": "2024-2-1",
+            "Category":"Obat Narkotika",
+            "stock":300,
+            "min_stock": 5
+        },
+        {
+            "name": "Miloz 1mg",
+            "expiration_date": "2024-5-22",
+            "stock_date": "2024-2-1",
+            "Category":"Obat Narkotika",
+            "stock":500,
+            "min_stock": 5
+        },
+        {
+            "name": "Opineuron",
+            "expiration_date": "2025-4-22",
+            "stock_date": "2024-2-1",
+            "Category":"Obat Narkotika",
+            "stock":300,
+            "min_stock": 5
+        },
+        {
+            "name": "Prohiper",
+            "expiration_date": "2025-1-15",
+            "stock_date": "2024-2-1",
+            "Category":"Obat Narkotika",
+            "stock":140,
+            "min_stock": 5
+        },
+        {
+            "name": "Riklona",
+            "expiration_date": "2025-1-17",
+            "stock_date": "2024-2-1",
+            "Category":"Obat Narkotika",
+            "stock":20,
+            "min_stock": 5
+        },
+        {
+            "name": "Sanmag",
+            "expiration_date": "2025-3-29",
+            "stock_date": "2024-02-01",
+            "Category":"Obat Narkotika",
+            "stock":95,
+            "min_stock": 5
+        },
+        {
+            "name": "Sedacum",
+            "expiration_date": "2025-2-15",
+            "stock_date": "2024-2-1",
+            "Category":"Obat Narkotika",
+            "stock":20,
+            "min_stock": 5
+        },
+        {
+            "name": "Sibital",
+            "expiration_date": "2025-2-15",
+            "stock_date": "2024-2-1",
+            "Category":"Obat Narkotika",
+            "stock":500,
+            "min_stock": 5
+        },
+        {
+            "name": "Stesolid",
+            "expiration_date": "2025-3-20",
+            "stock_date": "2024-2-1",
+            "Category":"Obat Narkotika",
+            "stock":300,
+            "min_stock": 5
+        },
+        {
+            "name": "codipront",
+            "expiration_date": "2025-4-20",
+            "stock_date": "2024-2-1",
+            "Category":"Obat Narkotika",
+            "stock":200,
+            "min_stock": 5
+        },
+        {
+            "name": "Duragesic",
+            "expiration_date": "2024-7-20",
+            "stock_date": "2024-2-1",
+            "Category":"Obat Narkotika",
+            "stock":350,
+            "min_stock": 5
+        },
+        {
+            "name": "Fentanyl",
+            "expiration_date": "2024-5-13",
+            "stock_date": "2024-2-1",
+            "Category":"Obat Narkotika",
+            "stock":150,
+            "min_stock": 5
+        },
+        {
+            "name": "Morfina",
+            "expiration_date": "2024-6-10",
+            "stock_date": "2024-2-1",
+            "Category":"Obat Narkotika",
+            "stock":100,
+            "min_stock": 5
+        },
+        {
+            "name": "Mst Continus",
+            "expiration_date": "2024-6-1",
+            "stock_date": "2024-2-1",
+            "Category":"Obat Narkotika",
+            "stock":50,
+            "min_stock": 5
+        },
+        {
+            "name": "Pethidin",
+            "expiration_date": "2025-4-30",
+            "stock_date": "2024-2-1",
+            "Category":"Obat Narkotika",
+            "stock":146,
+            "min_stock": 5
+        },
+        {
+            "name": "Xanax",
+            "expiration_date": "2024-7-20",
+            "stock_date": "2024-2-1",
+            "Category":"Obat Narkotika",
+            "stock":245,
+            "min_stock": 5
+        },
+        {
+            "name": "Valisanbe",
+            "expiration_date": "2025-5-20",
+            "stock_date": "2024-2-1",
+            "Category":"Obat Narkotika",
+            "stock":123,
+            "min_stock": 5
+        },
+        {
+            "name": "Zypraz",
+            "expiration_date": "2024-4-20",
+            "stock_date": "2024-2-1",
+            "Category":"Obat Narkotika",
+            "stock":500,
+            "min_stock": 5
+        }
+    ]
+}
